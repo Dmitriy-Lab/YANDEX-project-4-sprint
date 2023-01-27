@@ -1,0 +1,18 @@
+.place__paragraphs {
+  justify-self: stretch;
+  align-self: stretch;
+}
+
+@media screen and (max-width:700px) {
+
+  .place__paragraphs {
+      margin: 0 16px 0;
+  }
+}
+
+@media screen and (max-width:500px) {
+
+  .place__paragraphs {
+      margin: 0 16px 0;
+  }
+}

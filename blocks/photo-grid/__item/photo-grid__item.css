@@ -1,0 +1,4 @@
+.photo-grid__item {
+  justify-self: stretch;
+  align-self: stretch;
+}
