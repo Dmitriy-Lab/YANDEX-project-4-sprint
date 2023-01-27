@@ -1,5 +1,5 @@
 .cover__background {
-  background-image: url(./images/cover-trains.jpg);
+  background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
   aspect-ratio: 1184/740;
   display: flex;
